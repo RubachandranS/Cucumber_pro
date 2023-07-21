@@ -27,6 +27,12 @@ public class Helper_Class {
 
 	}
 	
+	public static void getCurrentUrl
+	(WebDriver driver,String s) {
+		driver.getCurrentUrl();
+	}
+	
+	
 	
 	
 	
